@@ -1,7 +1,7 @@
 # Exploit Title: Saman Travel Insurance (Maybe Saman Insurance) Customers Identification with Iranian National Number
 # Company URL: ['https://samandirect.ir/','http://www.si24.ir/']
 # Google Dork [Iranian National Number] : ['کارت ملی','شماره ملی','Cart Meli','Shomare Meli']
-# Date: [date]
+# Date: 2018-09-06
 # Exploit Author: ['Sharax']
 # Vendor Page: https://github.com/sharaxco/SecurityReport
 # Version: (1.0)
