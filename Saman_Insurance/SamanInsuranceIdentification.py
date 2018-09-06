@@ -17,10 +17,10 @@
 #
 #	Hi
 #	درود
-#	This is not an act against the people of my country
-#	این اقدام علیه مردم کشور من نیست
-#	This reflects the lack of knowledge of some of the major Iranian companies.
-#	این نشان دهنده کمبود دانش برخی از شرکت های بزرگ ایرانی است.
+#	This is not an act against the of my country (Iran)
+#	این اقدام علیه کشور من ایران نیست
+#	This reflects the lack of Weakness of some of the major Iranian companies.
+#	این نشان دهنده ضعف دانش برخی از شرکت های بزرگ ایرانی است.
 #	I apologize to the Iranian people
 #	من از مردم ایران عذرخواهی می کنم
 #	But these measures are needed
