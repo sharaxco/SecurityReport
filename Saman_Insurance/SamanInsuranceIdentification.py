@@ -9,7 +9,7 @@
 #
 #
 #
-#	Comment Example : python3.6 SamanInsurance.py 1234567890
+#	Comment Example : python3.6 SamanInsuranceIdentification.py 1234567890
 #
 #	Iranian National Number Example: ['http://iraninsurance.ir/documents/10623/223299/552nf.pdf',
 #									'http://med.mui.ac.ir/sites/default/files/users/ofony/nomarat%2096_1_2.PDF']
