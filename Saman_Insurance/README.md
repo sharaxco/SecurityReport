@@ -7,10 +7,10 @@
 <p></p><p></p><p></p>
 <p>Hi</p>
 <p>درود</p>
-<p>This is not an act against the people of my country</p>
-<p>این اقدام علیه مردم کشور من نیست</p>
-<p>This reflects the lack of knowledge of some of the major Iranian companies.</p>
-<p>این نشان دهنده کمبود دانش برخی از شرکت های بزرگ ایرانی است.</p>
+<p>This is not an act against the of my country (iran)</p>
+<p>این اقدام علیه کشور من ایران نیست</p>
+<p>This reflects the Weakness of knowledge of some of the major Iranian companies.</p>
+<p>این نشان دهنده ضعف دانش برخی از شرکت های بزرگ ایرانی است.</p>
 <p>I apologize to the Iranian people</p>
 <p>من از مردم ایران عذرخواهی می کنم</p>
 <p>But these measures are needed</p>
