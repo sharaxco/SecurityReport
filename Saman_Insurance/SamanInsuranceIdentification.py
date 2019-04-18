@@ -15,16 +15,6 @@
 #									'http://med.mui.ac.ir/sites/default/files/users/ofony/nomarat%2096_1_2.PDF']
 #
 #
-#	Hi
-#	درود
-#	This is not an act against the of my country (Iran)
-#	این اقدام علیه کشور من ایران نیست
-#	This reflects the lack of Weakness of some of the major Iranian companies.
-#	این نشان دهنده ضعف دانش برخی از شرکت های بزرگ ایرانی است.
-#	I apologize to the Iranian people
-#	من از مردم ایران عذرخواهی می کنم
-#	But these measures are needed
-#	اما این اقدامات مورد نیاز است
 
 import urllib.request
 import json
